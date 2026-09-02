@@ -1,6 +1,3 @@
 # Goal-Website
-Website Tracker to record our Year goal
-123
 
-## Here is a test
-There lies a Ray Wang
+Website Tracker to record our Year goal bet
