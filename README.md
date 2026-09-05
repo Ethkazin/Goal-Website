@@ -9,3 +9,4 @@ Website Tracker to record our Year goal bet
 - Droppable and linkable files to the website adn stores it in the file
 - make a info page
     - make bio page for each person
+    
